@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+.tmp
+.idea
+.log
+.env
+dist
+docs
+npm-debug.log
+.nyc_output
+coverage
+jest.config.js
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
